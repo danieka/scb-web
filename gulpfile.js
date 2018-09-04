@@ -1,11 +1,12 @@
 'use strict';
 
-var gulp = require('gulp')
+var gulp = require('gulp'), concat = require('gulp-concat');
 var cloudfront = require('gulp-cloudfront-invalidate');
 var runSequence = require('run-sequence')
 var toml = require('toml')
 var fs = require('fs')
 var os = require('os')
+const sass = require('gulp-sass')
 
 var file = fs.readFileSync(os.homedir() + '/.aws/credentials.danielk')
 var lines = file.toString().split("\n")
@@ -18,7 +19,7 @@ var s3 = require('gulp-s3-upload')(AWS);
 
 var uploadOpts = { Bucket: "", ACL: "public-read" }
 gulp.task('upload', () => {
-    gulp.src('.//**').pipe(s3(uploadOpts));
+    gulp.src('./public/**').pipe(s3(uploadOpts));
 })
 
 
@@ -39,3 +40,14 @@ gulp.task('deploy', function(done) {
     settings.distribution = "EXQOHJR9ZL9XC"
     runSequence("upload", "cloudfront", done)
 });
+
+gulp.task('sass', function () {
+    return gulp.src('./themes/scb/scss/**/*.scss')
+      .pipe(sass().on('error', sass.logError))
+      .pipe(concat("main.css"))
+      .pipe(gulp.dest('./themes/scb/static/css'));
+  });
+ 
+  gulp.task('watch', ["sass"], function () {
+    gulp.watch('./themes/scb/scss/**/*.scss', ['sass']);
+  });

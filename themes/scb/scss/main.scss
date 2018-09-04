@@ -1,0 +1,165 @@
+$sans: "Raleway", sans-serif;
+$serif: "Cormorant Garamond", serif;
+
+$primary: #b57a46;
+
+body {
+    text-rendering: optimizeLegibility;
+    @media(max-width: 800px) {
+        font-size: 0.7em;
+    }
+    margin: 0;
+
+    font-family: $sans;
+
+    background: black;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $sans;
+
+    font-weight: 300;
+    letter-spacing: 0.3px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+
+    color: white;
+
+    box-sizing: border-box;
+    padding: 1em 5em;
+    height: 6em;
+
+    #logo {
+        display: flex;
+        flex-direction: column;
+        text-align: right;
+
+        font-weight: 200;
+        font-family: $sans;
+
+        a {
+            text-decoration: unset;
+        }
+
+        span {
+            color: white;
+            text-decoration: unset;
+            display: block;
+        }
+
+        span:first-of-type {
+            font-size: 2em;
+            margin-bottom: 0.2em;
+        }
+
+        span:last-of-type {
+            font-size: 1em;
+        }
+    }
+
+    nav ul {
+        list-style: none;
+        margin: 0;
+        margin-top: 1em;
+
+        a {
+            color: white;
+            text-decoration: unset;
+            font-size: 1.1em;
+            text-transform: capitalize;
+            font-family: $sans;
+            font-weight: 300;
+        }
+    }
+}
+
+#index {
+    position: relative;
+    top: -6em;
+    left: -5vw;
+
+    height: 80vh;
+    width: 100vw;
+    min-height: 500px;
+
+    padding: 0 5vw;
+
+    background: gray;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    color: white;
+    box-sizing: border-box;
+
+    z-index: -1;
+    text-align: center;
+
+    hr {
+        border: 0;
+        height: 3px;
+        background: #fff;
+        max-width: 750px;
+
+        width: 80vw;
+    }
+}
+
+main {
+    padding: 0 5vw;
+}
+
+footer {
+    display: inline-flex;
+    background: rgba(255, 255, 255, 0.08);
+    padding-right: 1em;
+    margin-left: 5vw;
+
+    @media (max-width: 500px) {
+        flex-direction: column;
+    }
+
+    > div {
+        padding: 1em;
+    }
+}
+
+div#mc_embed_signup {
+    background: transparent;
+    font: inherit;
+    color: white;
+
+    label {
+        width: 8em;
+        display: inline-block;
+        margin: 0.5em 0;
+    }
+
+    #mc-embedded-subscribe {
+        margin: 2em 0 1em;
+        display: block;
+        background: $primary;
+        padding: 1em 3em;
+        border: none;
+        color: white;
+        text-transform: uppercase;
+        letter-spacing: 0.3px;
+    }
+}
