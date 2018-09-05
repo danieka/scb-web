@@ -14,10 +14,9 @@ sections:
   label: Blog
   create: all
   match: "**/*"
-- type: directory
-  path: content/about
+- type: document
+  path: content/about/_index.md
   label: About
-  create: all
   match: "**/*"
 - type: document
   path: content/_index.md
