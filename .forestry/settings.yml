@@ -17,7 +17,6 @@ sections:
 - type: document
   path: content/about/_index.md
   label: About
-  match: "**/*"
 - type: document
   path: content/_index.md
   label: Front page
