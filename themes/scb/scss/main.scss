@@ -2,6 +2,11 @@ $sans: "Raleway", sans-serif;
 $serif: "Cormorant Garamond", serif;
 
 $primary: #b57a46;
+$primary-transparent: rgba(190,135,86,0.9);
+$black: #1e0000;
+$white: #fff5ec;
+$gray: #898989;
+$max-width: 1100px;
 
 body {
     text-rendering: optimizeLegibility;
@@ -14,7 +19,45 @@ body {
 
     background: black;
     color: white;
+    overflow-x: hidden;
 }
+
+.primary-bg {
+    background: $primary;
+}
+
+img {
+    object-fit: contain;
+}
+
+.wide {
+    position: relative;
+    width: 100vw;
+    left: calc((#{$max-width} - 100vw)/2);
+    
+    @media(max-width: 1300px) {
+        left: -5vw;
+    }
+
+    > div {
+        max-width: $max-width;
+        margin: auto;
+    }
+}
+
+.padding {
+    padding: 2em 0;
+
+    h1 {
+        margin-top: 0;
+    }
+}
+
+.margin {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $sans;
@@ -31,6 +74,23 @@ h2 {
     font-size: 1.6em;
 }
 
+h3 {
+    font-size: 1.3em;
+}
+
+h4 {
+    color: $gray;
+    margin: 0;
+}
+
+a, a:visited {
+    color: white;
+}
+
+p {
+    max-width: 80ch;
+}
+
 header {
     display: flex;
     justify-content: space-between;
@@ -38,8 +98,10 @@ header {
     color: white;
 
     box-sizing: border-box;
-    padding: 1em 5em;
+    padding: 1em 0;
     height: 6em;
+    max-width: $max-width;
+    margin: auto;
 
     #logo {
         display: flex;
@@ -73,6 +135,11 @@ header {
         list-style: none;
         margin: 0;
         margin-top: 1em;
+        display: flex;
+
+        li {
+            margin-left: 1em;
+        }
 
         a {
             color: white;
@@ -88,7 +155,11 @@ header {
 #index {
     position: relative;
     top: -6em;
-    left: -5vw;
+    left: calc((#{$max-width} - 100vw)/2);
+    
+    @media(max-width: 1300px) {
+        left: -5vw;
+    }
 
     height: 80vh;
     width: 100vw;
@@ -96,7 +167,7 @@ header {
 
     padding: 0 5vw;
 
-    background: gray;
+    background: url("https://placekitten.com/1200/500");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -122,15 +193,63 @@ header {
     }
 }
 
+.concerts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    h3 {
+        color: $black;
+    }
+
+    > div {
+        width: 350px;
+        position: relative;
+        margin-bottom: 2em;
+
+        img {
+            width: 100%;
+        }
+
+        > div {
+            position: absolute;
+            bottom: 2px;
+            background: $primary-transparent;
+            width: 100%;
+            box-sizing: border-box;
+            padding: 0 3em;
+            height: 160px;
+        }
+    }
+}
+
+.articles {
+    > div {
+        background: $primary-transparent;
+        color: $black;
+        padding: 2em;
+        margin: 2em 0;
+        display: inline-block;
+
+        a, a:visited {
+            color: $black;
+        }
+    }
+}
+
 main {
     padding: 0 5vw;
+    max-width: $max-width;
+    margin: auto;
 }
 
 footer {
-    display: inline-flex;
+    display: flex;
     background: rgba(255, 255, 255, 0.08);
-    padding-right: 1em;
-    margin-left: 5vw;
+    max-width: $max-width;
+    margin: auto;
+    margin-top: 2em;
+    min-height: 18em;
 
     @media (max-width: 500px) {
         flex-direction: column;
@@ -161,5 +280,33 @@ div#mc_embed_signup {
         color: white;
         text-transform: uppercase;
         letter-spacing: 0.3px;
+    }
+}
+
+.content {
+    min-height: calc(100vh - 6em - 20em);
+}
+
+.concert {
+    .row {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+
+        .row {
+            div {
+            }
+
+        }
+        img.map {
+            width: 400px;
+            max-width: 90vw;
+
+        }
+        
+        > img {
+            width: 542px;
+            max-width: 90vw;
+        }
     }
 }

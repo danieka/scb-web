@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp watch & pid1=$! ; hugo server -D; kill $pid1; wait $pid1"
   },
   "author": "",
   "license": "ISC",

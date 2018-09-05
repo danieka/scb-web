@@ -6,6 +6,20 @@
         <h2>{{.Params.tagline}}</h2>
     </div>
     <h2>OUR NEXT CONCERTS</h2>
+    <div class="concerts">
+        {{ range last 10 (where .Pages "Section" "concerts")}}
+        <div>
+            {{ .Render "summary"}}
+        </div>
+        {{ end }}
+    </div>
     <h2>THE LATEST NEWS</h2>
+    <div class="articles">
+        {{ range last 10 (where .Pages "Section" "blog")}}
+        <div>
+            {{ .Render "summary"}}
+        </div>
+        {{ end }}
+    </div>
 </main>
 {{ end }}

@@ -1,6 +1,33 @@
 {{ define "main" }}
-    {{ .Title }}
-    <main>
-        {{ .Content }}
+    <main class="concert">
+        <div class="primary-bg wide margin">
+            <div class="padding">
+                <h1>
+                    {{ .Title }}
+                </h1>
+                {{ .Content }}
+            </div>
+        </div>
+        <h2>Information</h2>
+        <div class="row">
+            <div>
+                <div class="row">
+                    <div>
+                        <h4>Conductor</h4>
+                        <p>{{ .Params.conductor }}</p>
+                        <h4>Address</h4>
+                        <p>{{ .Params.location }}</p>
+                    </div>
+                    <div>
+                        <h4>Date</h4>
+                        <p>{{ .Params.concertDate }}</p>
+                        <h4>Time</h4>
+                        <p>{{ .Params.time }}</p>
+                    </div>
+                </div>
+                <img class="map" src="https://amp.businessinsider.com/images/524f00bceab8ea692b8b1682-750-562.jpg">
+            </div>
+            <img src=" {{.Params.image}}">
+        </div>
     </main>
 {{ end }}

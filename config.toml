@@ -1,10 +1,22 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Swedish Central Band"
 theme = "scb"
 
 [menu]
   [[menu.main]]
     identifier = "concerts"
-    name = "concerts and events"
+    name = "concerts"
     url = "/concerts/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"

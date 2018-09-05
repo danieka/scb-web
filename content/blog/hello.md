@@ -1,11 +1,6 @@
 ---
 date: "2018-04-20"
-concertDate: "2018-05-26"
-time: "16:00 - 18:00"
-title: "Dirigentkonsert med svår musik"
-location: "Via Architecto 52"
-conductor: "Enim Suscipit"
-image: "https://placekitten.com/600/600"
+title: "Hello Everyone"
 ---
 
 Incidunt atque sint et esse fugit aut ut facilis. Quidem fugiat eius enim placeat. Ullam quaerat dolorem quod recusandae reprehenderit totam nisi odio. Est error aliquam autem. Quasi quibusdam dolor nemo saepe consequatur velit impedit. Voluptatem sunt doloremque commodi.

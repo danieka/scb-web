@@ -18,9 +18,7 @@ var AWS = {
 var s3 = require('gulp-s3-upload')(AWS);
 
 var uploadOpts = { Bucket: "", ACL: "public-read" }
-gulp.task('upload', () => {
-    gulp.src('./public/**').pipe(s3(uploadOpts));
-})
+gulp.task('upload', () => gulp.src('./public/**').pipe(s3(uploadOpts)))
 
 
 var settings = {
