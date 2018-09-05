@@ -19,10 +19,9 @@ sections:
   label: About
   create: all
   match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
+- type: document
+  path: content/_index.md
+  label: Front page
   match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
