@@ -211,7 +211,8 @@ header {
         margin-bottom: 2em;
 
         img {
-            width: 100%;
+            width: 350px;
+            height: 350px;
         }
 
         > div {
@@ -296,11 +297,6 @@ div#mc_embed_signup {
         justify-content: space-between;
         flex-wrap: wrap;
 
-        .row {
-            div {
-            }
-
-        }
         img.map {
             width: 400px;
             max-width: 90vw;
