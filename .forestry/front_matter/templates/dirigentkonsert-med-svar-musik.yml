@@ -39,5 +39,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/about/principal-cornet.md
 - content/concerts/marcher-genom-tiderna.md
