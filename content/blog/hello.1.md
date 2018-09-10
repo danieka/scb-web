@@ -1,6 +1,7 @@
 ---
 date: "2018-08-20"
 title: "We have more news"
+image: "https://placekitten.com/700/700"
 ---
 
 Incidunt atque sint et esse fugit aut ut facilis. Quidem fugiat eius enim placeat. Ullam quaerat dolorem quod recusandae reprehenderit totam nisi odio. Est error aliquam autem. Quasi quibusdam dolor nemo saepe consequatur velit impedit. Voluptatem sunt doloremque commodi.

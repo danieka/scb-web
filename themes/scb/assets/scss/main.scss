@@ -229,15 +229,25 @@ header {
 
 .articles {
     > div {
+        display: flex;
+
+        img {
+            height: 400px;
+        }
+        > div {
+            padding: 2em;
+        }
         background: $white;
         color: $black;
-        padding: 2em;
         margin: 2em 0;
-        display: inline-block;
 
         a, a:visited {
             color: $black;
         }
+    }
+
+    > div:nth-child(2n + 1) {
+        flex-direction: row-reverse;
     }
 }
 
