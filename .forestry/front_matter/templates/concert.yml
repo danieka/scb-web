@@ -34,4 +34,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/concerts/varnamo.md
 - content/concerts/marcher-genom-tiderna.md
