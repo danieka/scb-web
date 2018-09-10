@@ -33,6 +33,14 @@ fields:
   type: file
   hidden: false
   default: ''
+- type: text
+  name: mapsLink
+  label: Maps Link
+  description: Lite krångligt detta, tyvärr. Men gör så här att du går in på Google
+    Maps och söker på stället där konserten ska vara. Sedan klickar du på "Dela" i
+    panelen till vänster. Välj bädda in en karta. Kopiera HTML:en till något annat,
+    typ ett word dokument. Det du vill ha är länken som står efter src=" och som är
+    inom citattecken. Klistra in den hör.
 pages:
 - content/concerts/2018-05-27.md
 - content/concerts/2018-05-26.md
