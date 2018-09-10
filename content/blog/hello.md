@@ -1,9 +1,9 @@
 ---
-date: "2018-04-20"
-title: "Hello Everyone"
-image: "https://placekitten.com/800/800"
----
+date: 2018-04-20 00:00:00 +0000
+title: Hello Everyone
+image: https://placekitten.com/800/800
 
+---
 Incidunt atque sint et esse fugit aut ut facilis. Quidem fugiat eius enim placeat. Ullam quaerat dolorem quod recusandae reprehenderit totam nisi odio. Est error aliquam autem. Quasi quibusdam dolor nemo saepe consequatur velit impedit. Voluptatem sunt doloremque commodi.
 
 Atque quasi eum eligendi mollitia dolor cumque ut dolor. Nihil sed non illo ea. Vel vel quo ipsa. Minus quidem officia corrupti eius molestiae voluptas cumque. Rem assumenda et repellat delectus nam provident.

@@ -19,4 +19,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/hello.md
 - content/blog/hello.1.md
