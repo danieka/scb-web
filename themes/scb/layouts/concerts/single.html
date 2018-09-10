@@ -20,9 +20,9 @@
                     </div>
                     <div>
                         <h4>Date</h4>
-                        <p>{{ .Params.concertDate }}</p>
+                        <p>{{ dateFormat "2006-01-02" .Params.concertStart }}</p>
                         <h4>Time</h4>
-                        <p>{{ .Params.time }}</p>
+                        <p>{{ dateFormat "15:04" .Params.concertStart }}</p>
                     </div>
                 </div>
                 <img class="map" src="https://amp.businessinsider.com/images/524f00bceab8ea692b8b1682-750-562.jpg">
