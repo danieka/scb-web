@@ -18,6 +18,11 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- name: time
+  label: Time
+  type: text
+  hidden: false
+  default: ''
 - name: location
   label: Location
   type: text
@@ -33,6 +38,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- content/concerts/marcher-genom-tiderna.md
-- content/concerts/varnamo.md
