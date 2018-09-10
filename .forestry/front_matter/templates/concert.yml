@@ -34,6 +34,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/concerts/2018-05-26.md
 - content/concerts/2018-05-28.md
 - content/concerts/marcher-genom-tiderna.md
 - content/concerts/varnamo.md
