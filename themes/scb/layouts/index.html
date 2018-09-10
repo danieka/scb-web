@@ -5,17 +5,25 @@
         <hr>
         <h2>{{.Params.tagline}}</h2>
     </div>
-    <h2>OUR NEXT CONCERTS</h2>
+    <div class="ruler-title">
+        <h2>KOMMANDE KONSERTER</h2>
+        <hr>
+        <h3><a href='/concerts'>Alla konserter</a></h3>
+    </div>
     <div class="concerts">
-        {{ range last 10 (where .Pages "Section" "concerts")}}
+        {{ range last 3 (where .Pages "Section" "concerts")}}
         <div>
             {{ .Render "summary"}}
         </div>
         {{ end }}
     </div>
-    <h2>THE LATEST NEWS</h2>
+    <div class="ruler-title">
+        <h2>NYHETER</h2>
+        <hr>
+        <h3><a href='/blog'>Alla nyheter</a></h3>
+    </div>
     <div class="articles">
-        {{ range last 10 (where .Pages "Section" "blog")}}
+        {{ range last 4 (where .Pages "Section" "blog")}}
         <div>
             {{ .Render "summary"}}
         </div>

@@ -13,15 +13,15 @@
             <div>
                 <div class="row">
                     <div>
-                        <h4>Conductor</h4>
+                        <h4>Dirigent</h4>
                         <p>{{ .Params.conductor }}</p>
-                        <h4>Address</h4>
+                        <h4>Adress</h4>
                         <p>{{ .Params.location }}</p>
                     </div>
                     <div>
-                        <h4>Date</h4>
+                        <h4>Datum</h4>
                         <p>{{ dateFormat "2006-01-02" .Params.concertStart }}</p>
-                        <h4>Time</h4>
+                        <h4>Tid</h4>
                         <p>{{ dateFormat "15:04" .Params.concertStart }}</p>
                     </div>
                 </div>

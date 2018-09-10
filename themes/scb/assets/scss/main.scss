@@ -199,7 +199,7 @@ header {
 .concerts {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
 
     h3 {
         color: $black;
@@ -307,5 +307,21 @@ div#mc_embed_signup {
             width: 542px;
             max-width: 90vw;
         }
+    }
+}
+
+.ruler-title {
+    display: flex;
+    align-items: center;
+
+    hr {
+        flex: 1 1 auto;
+        border: 1px solid white;
+        height: 0px;
+        margin: 0 20px;
+    }
+
+    a {
+        text-decoration: unset;
     }
 }
