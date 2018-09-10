@@ -30,7 +30,7 @@ fields:
   default: ''
 - name: image
   label: Image
-  type: text
+  type: file
   hidden: false
   default: ''
 pages:
