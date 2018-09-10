@@ -18,3 +18,5 @@ fields:
   type: file
   hidden: false
   default: ''
+pages:
+- content/blog/hello.1.md
