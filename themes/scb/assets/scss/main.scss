@@ -104,6 +104,7 @@ header {
     @media(max-width: 800px) {
         flex-direction: column;
         align-items: flex-end;
+        height: 9em;
     }
 
     #logo {
@@ -332,6 +333,7 @@ div#mc_embed_signup {
 .ruler-title {
     display: flex;
     align-items: center;
+    justify-content: space-between;
 
     hr {
         flex: 1 1 auto;
