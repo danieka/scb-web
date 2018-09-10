@@ -25,7 +25,7 @@
                         <p>{{ dateFormat "15:04" .Params.concertStart }}</p>
                     </div>
                 </div>
-                <img class="map" src="https://amp.businessinsider.com/images/524f00bceab8ea692b8b1682-750-562.jpg">
+                <iframe src="{{ .Params.mapsLink }}" width="450" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
             <img src=" {{.Params.image}}">
         </div>
