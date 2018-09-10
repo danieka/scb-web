@@ -40,7 +40,7 @@ fields:
     Maps och söker på stället där konserten ska vara. Sedan klickar du på "Dela" i
     panelen till vänster. Välj bädda in en karta. Kopiera HTML:en till något annat,
     typ ett word dokument. Det du vill ha är länken som står efter src=" och som är
-    inom citattecken. Klistra in den hör.
+    inom citattecken. Klistra in den här.
 pages:
 - content/concerts/2018-05-27.md
 - content/concerts/2018-05-26.md
