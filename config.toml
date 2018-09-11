@@ -1,4 +1,4 @@
-baseURL = "https://scb.danielk.se"
+baseURL = "https://swedishcentralband.com"
 languageCode = "en-us"
 theme = "scb"
 title = "Swedish Central Band"
