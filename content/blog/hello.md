@@ -1,13 +1,11 @@
 ---
-date: 2018-04-20 00:00:00 +0000
-title: Hello Everyone
-image: https://placekitten.com/800/800
+date: ''
+title: Övningar i oktober
+image: "/uploads/2018/10/15/tromb8.JPG"
 
 ---
-Incidunt atque sint et esse fugit aut ut facilis. Quidem fugiat eius enim placeat. Ullam quaerat dolorem quod recusandae reprehenderit totam nisi odio. Est error aliquam autem. Quasi quibusdam dolor nemo saepe consequatur velit impedit. Voluptatem sunt doloremque commodi.
+Musikkåren övar på Frälsningsarmén i Södertälje. 
 
-Atque quasi eum eligendi mollitia dolor cumque ut dolor. Nihil sed non illo ea. Vel vel quo ipsa. Minus quidem officia corrupti eius molestiae voluptas cumque. Rem assumenda et repellat delectus nam provident.
+Måndagar i oktober mellan 19-21:00.
 
-Ut eum qui nesciunt debitis ut. Error quis amet illo et rem nesciunt. Rerum ducimus perspiciatis quos aut fugit alias quae explicabo.
-
-Mollitia accusamus et voluptatem et. Enim suscipit voluptatem totam et voluptas eum. Architecto aliquid facere tempora voluptas ut. Aut quia magni voluptatem optio nam.
+Välkomna
