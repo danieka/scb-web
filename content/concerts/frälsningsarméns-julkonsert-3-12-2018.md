@@ -2,7 +2,6 @@
 concertDate = ""
 conductor = "Kent Jonsson"
 date = ""
-draft = true
 image = "/uploads/2018/10/15/Kettle.jpg"
 location = "Eric Ericssonhallen"
 mapsLink = ""
