@@ -42,5 +42,6 @@ fields:
     typ ett word dokument. Det du vill ha är länken som står efter src=" och som är
     inom citattecken. Klistra in den här.
 pages:
+- content/concerts/besök-av-stephen-och-philip-cobb-8-10-3-2019.md
 - content/concerts/varnamo.md
 - content/concerts/frälsningsarméns-julkonsert-3-12-2018.md
