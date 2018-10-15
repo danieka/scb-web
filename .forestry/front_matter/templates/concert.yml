@@ -42,7 +42,7 @@ fields:
     typ ett word dokument. Det du vill ha är länken som står efter src=" och som är
     inom citattecken. Klistra in den här.
 pages:
+- content/concerts/varnamo.md
 - content/concerts/2018-05-28.md
 - content/concerts/2018-05-27.md
 - content/concerts/2018-05-26.md
-- content/concerts/varnamo.md
