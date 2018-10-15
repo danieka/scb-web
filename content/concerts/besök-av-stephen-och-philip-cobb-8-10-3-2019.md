@@ -2,7 +2,6 @@
 concertDate = ""
 conductor = "Stephen Cobb"
 date = ""
-draft = true
 image = ""
 location = "Stockholm"
 mapsLink = ""
