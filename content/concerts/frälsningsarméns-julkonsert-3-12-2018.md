@@ -2,6 +2,7 @@
 concertDate = ""
 conductor = "Kent Jonsson"
 date = ""
+featured = true
 image = "/uploads/2018/10/15/Kettle.jpg"
 location = ""
 mapsLink = ""
