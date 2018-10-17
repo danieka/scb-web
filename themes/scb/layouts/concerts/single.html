@@ -20,9 +20,9 @@
                     </div>
                     <div>
                         <h4>Datum</h4>
-                        <p>{{ dateFormat "2006-01-02" .Params.concertStart }}</p>
+                        <p>{{ if .Params.concertStart }}{{ dateFormat "2006-01-02" .Params.concertStart }}{{end}}</p>
                         <h4>Tid</h4>
-                        <p>{{ dateFormat "15:04" .Params.concertStart }}</p>
+                        <p>{{ if .Params.concertStart }}{{ dateFormat "15:04" .Params.concertStart }}{{ end }}</p>
                     </div>
                 </div>
                 <iframe src="{{ .Params.mapsLink }}" width="450" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
