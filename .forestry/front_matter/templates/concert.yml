@@ -14,7 +14,7 @@ fields:
   hidden: false
   default: ''
 - name: concertDate
-  label: Concertdate
+  label: Concert Date
   type: datetime
   hidden: false
   default: ''
@@ -23,6 +23,7 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: Alltså, adressen till konsertlokalen.
 - name: conductor
   label: Conductor
   type: text
