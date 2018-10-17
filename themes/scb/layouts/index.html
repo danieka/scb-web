@@ -11,7 +11,7 @@
         <h3><a href='/concerts'>Alla konserter</a></h3>
     </div>
     <div class="concerts">
-        {{ range last 3 (where (where .Pages "Section" "concerts") "Params.featured" true)}}
+        {{ range sort (where (where .Pages "Section" "concerts") "Params.featured" true) "Params.concertDate"}}
         <div>
             {{ .Render "summary"}}
         </div>

@@ -1,5 +1,5 @@
 +++
-concertDate = ""
+concertDate = 2018-11-02T23:00:00+00:00
 conductor = "Stephen Cobb"
 date = ""
 featured = true

@@ -1,6 +1,6 @@
 +++
 concertDate = ""
-concertStart = "2018-11-08T23:00:00+00:00"
+concertStart = 2018-11-08T23:00:00+00:00
 conductor = "Kent Jonsson"
 date = ""
 image = "/uploads/2018/10/15/1.jpg"
