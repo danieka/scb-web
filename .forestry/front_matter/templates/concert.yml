@@ -41,6 +41,10 @@ fields:
     panelen till vänster. Välj bädda in en karta. Kopiera HTML:en till något annat,
     typ ett word dokument. Det du vill ha är länken som står efter src=" och som är
     inom citattecken. Klistra in den här.
+- type: boolean
+  name: featured
+  label: Featured
+  description: Om ni markerar denna så dyker den upp på förstasidan
 pages:
 - content/concerts/besök-av-stephen-och-philip-cobb-8-10-3-2019.md
 - content/concerts/varnamo.md
