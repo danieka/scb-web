@@ -6,7 +6,7 @@ featured = true
 image = "/uploads/2018/10/18/Skärmavbild 2018-10-18 kl. 09.42.48.png"
 location = ""
 mapsLink = ""
-title = "Besök av Stephen och Philip Cobb, 8-10 mars 2019                  "
+title = "Besök av Dr. Stephen och Philip Cobb, 8-10 mars 2019                  "
 
 +++
 I mars 2019 gästas SCB av Dr Stephen Cobb. Han är chef för ”Music and Creative Arts” på Frälsningsarméns högkvarter i London. Som ledare för Hendon Band och The International Staff Band är han en av Frälsningsarméns främsta musikmästare. I båda de nämnda musikkårerna har han tidigare varit principal och många gånger framträtt som solist. 
