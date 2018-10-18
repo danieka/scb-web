@@ -11,15 +11,15 @@ time = ""
 title = "Svenska Brassbandfestivalen,  9-11 november 2018"
 
 +++
-SCB har den stora äran att få medverka i öppningsceremonin på Svenska Brassbandfestivalen i Pingstkyrkan Arken i Värnamo, kvällen avrundas med en stämningsfull Nocturne i Värnamo Kyrka. 
+SCB har den stora äran att få medverka i öppningsceremonin på Svenska Brassbandfestivalen i Pingstkyrkan Arken i Värnamo, kvällen avrundas med en stämningsfull Nocturne i Värnamo Kyrka.
 
-På lördag vid lunch bjuder vi på en lättsam konsert i Gummifabriken, sedan deltar vi i festivalklassen på Brassbandfestivalen. 
+På lördag vid lunch bjuder vi på en lättsam konsert i Gummifabriken, sedan deltar vi i festivalklassen på Brassbandfestivalen.
 
 Helgen avslutas med en musikgudstjänst på Frälsningsarmén i Tranås.
 
-Fre 9/11 kl.17.00                                      Öppningsceremoni, Svenska Brassbandfestivalen      
+Fre 9/11 kl.17.00                                      Öppningsceremoni, Svenska Brassbandfestivalen
 
-Fre 9/11 kl. 23.00                                     Nocturne Värnamo Kyrka
+Fre 9/11 kl. 23.00                                    Nocturne Värnamo Kyrka
 
 Lör 10/11 kl. 12.30                                   Konsert i Gummifabriken, Värnamo
 
