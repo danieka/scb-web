@@ -9,101 +9,116 @@ Musikkårens dirigent, Kent Jonsson, växte upp i Skelleftehamn där hans pappa 
 
 **Dirigent**
 
-* _Kent Jonsson, hemkår: Skelleftehamn_
+_Kent Jonsson, hemkår: Skelleftehamn_
 
 **Soprankornett:**
 
-* _Fredrik Lundberg, hemkår Södertälje, till vardags ….._
+_Fredrik Lundberg, hemkår Södertälje, till vardags ….._
 
 **Solokornett:**
 
-* _Göran Lundberg, hemkår Södertälje_
+_Göran Lundberg, hemkår Södertälje_
 
-  bla bla bla
-* _Maria Wiberg, hemkår Vasakåren_
+bla bla bla
 
-  Speciallärare på 
-* _Mikael Eriksson, hemkår: Uppsala_ 
+_Maria Wiberg, hemkår Vasakåren_
 
-  mjukvaruarkitekt/programmerare av journalsystem för hälso- och sjukvård 
-* _Lars Beijer, hemkår: Söderkåren_
+Speciallärare på 
 
-  Medarbetare på Frälsningsarméns kommunikationsenhet
+_Mikael Eriksson, hemkår: Uppsala_ 
+
+mjukvaruarkitekt/programmerare av journalsystem för hälso- och sjukvård 
+
+_Lars Beijer, hemkår: Söderkåren_
+
+Medarbetare på Frälsningsarméns kommunikationsenhet
 
 **1:a kornett:**
 
-* Patrik Birgestam, hemkår Södertälje, till vardags...
-* Kristian Lindberg, hemkår Södertälje, till vardags…
-* Thomas Gillkvist, hemkår Södertälje, till vardags…
+Patrik Birgestam, hemkår Södertälje, till vardags...
+
+Kristian Lindberg, hemkår Södertälje, till vardags…
+
+Thomas Gillkvist, hemkår Södertälje, till vardags…
 
 **2:a kornett:**
 
-* Oskar Öberg, hemkår Vasakåren, till vardags…
-* Johan Johnsson, hemkår Kår 393
-* Vårdbiträde Södertälje kommun
+Oskar Öberg, hemkår Vasakåren, till vardags…
+
+Johan Johnsson, hemkår Kår 393
+
+Vårdbiträde Södertälje kommun
 
 **Flygelhorn:**
 
-* Charlotte Råström, hemkår: Templet Stockholm, 
+Charlotte Råström, hemkår: Templet Stockholm, 
 
-  StfC Livgardets Dragonmusikkår
+StfC Livgardets Dragonmusikkår
 
  **Solohorn:**
 
-* Kenneth Göransson, hemkår: Söderkåren
+Kenneth Göransson, hemkår: Söderkåren
 
-  CFO på Ahlsell
+CFO på Ahlsell
 
  **1:a horn:**
 
-* Christer Larsson, hemkår: Söderkåren
+Christer Larsson, hemkår: Söderkåren
 
-  mellanstadielärare på Sunnerbyskolan
+mellanstadielärare på Sunnerbyskolan
 
 **2:a horn**
 
  Eufonium:
 
-* Richard Kendrick, hemkår: Söderkåren
+Richard Kendrick, hemkår: Söderkåren
 
-  CBDO på Nectima 
-* Markus Rylander, hemkår Söderkåren 
+CBDO på Nectima 
+
+Markus Rylander, hemkår Söderkåren 
 
 **Bariton:**
 
-* Lennart Eld, hemkår Vasakåren
+Lennart Eld, hemkår Vasakåren
 
 **Trombon:**
 
-* Lars Råsberg, hemkår Hisingskåren, Göteborg
+Lars Råsberg, hemkår Hisingskåren, Göteborg
 
-  Biståndsarbetare Vetlanda
-* Mikael Claesson, hemkår Söderkåren
+Biståndsarbetare Vetlanda
 
-  CEO Pensure AB
-* Per-Olof Ahrnéll, hemkår: Södertälje
+Mikael Claesson, hemkår Söderkåren
 
-  Pensionerad egenföretagare
-* Johan Ådvall, hemkår Vasakåren, 
+CEO Pensure AB
 
-  biträdande platschef Midsommarkransens Akutboende
+Per-Olof Ahrnéll, hemkår: Södertälje
+
+Pensionerad egenföretagare
+
+Johan Ådvall, hemkår Vasakåren, 
+
+biträdande platschef Midsommarkransens Akutboende
 
  **Eb-tuba:**
 
-* Fredrik Edqvist, hemkår: Örebro, 
+Fredrik Edqvist, hemkår: Örebro, 
 
-  försäkringstjänsteman
-* Christer Hagman, hemkår Söderkåren
-* Lars Ihlar, hemkår Söderkåren
+försäkringstjänsteman
+
+Christer Hagman, hemkår Söderkåren
+
+Lars Ihlar, hemkår Söderkåren
 
  **Bb-tuba:**
 
-* Maurice Forslund, hemkår Söderkåren,
-* Daniel Karlsson, hemkår: Vasakåren, 
+Maurice Forslund, hemkår Söderkåren,
 
-  entreprenör och grundare av peerCast
+Daniel Karlsson, hemkår: Vasakåren, 
+
+entreprenör och grundare av peerCast
 
 **Slagverk:**
 
-* Thomas Jutestål, hemkår Söderkåren
-* Tobias Jutestål, hemkår Söderkåren
+Thomas Jutestål, hemkår Söderkåren
+
+Tobias Jutestål, hemkår Söderkåren
