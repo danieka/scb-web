@@ -69,7 +69,7 @@ mellanstadielärare på Sunnerbyskolan
 
 **2:a horn**
 
- Eufonium:
+**Eufonium:**
 
 Richard Kendrick, hemkår: Söderkåren
 
