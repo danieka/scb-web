@@ -7,118 +7,88 @@ Swedish Central Band bildades i januari 2018 med målet att beröra och inspirer
 
 Musikkårens dirigent, Kent Jonsson, växte upp i Skelleftehamn där hans pappa var musikmästare för Frälsningsarméns musikkår. Under studietiden på Musikhögskolan i Stockholm så var Kent principal och vicemusikmästare i Vasakårens musikkår. Efter avslutade studier återvände Kent till Skelleftehamn och blev musikmästare i musikkåren. Kent arbetade sedan som solotrumpetare i Kungliga Hovkapellet i 35 säsonger och är för närvarande solotrumpetare i Stockholm Sinfonietta.
 
-**Dirigent**
+##### **Dirigent**
 
-_Kent Jonsson, hemkår: Skelleftehamn_
+**_Kent Jonsson_**_, hemkår: Skelleftehamn_
 
-**Soprankornett:**
+##### **Soprankornett:**
 
-_Fredrik Lundberg, hemkår Södertälje, till vardags ….._
+**_Fredrik Lundberg,_** _hemkår Södertälje,_ 
 
-**Solokornett:**
+##### **Solokornett:**
 
-_Göran Lundberg, hemkår Södertälje_
+**_Göran Lundberg_**_, hemkår Södertälje,_
 
-bla bla bla
+**_Maria Wiberg_**_, hemkår Vasakåren,_ Speciallärare på 
 
-_Maria Wiberg, hemkår Vasakåren_
+**_Mikael Eriksson,_** _hemkår: Uppsala,_ mjukvaruarkitekt/programmerare av journalsystem för hälso- och sjukvård 
 
-Speciallärare på 
+**_Lars Beijer,_** _hemkår: Söderkåren,_ medarbetare på Frälsningsarméns kommunikationsenhet
 
-_Mikael Eriksson, hemkår: Uppsala_ 
+##### **1:a kornett:**
 
-mjukvaruarkitekt/programmerare av journalsystem för hälso- och sjukvård 
+**Patrik Birgestam**, hemkår: Södertälje,.
 
-_Lars Beijer, hemkår: Söderkåren_
+**Kristian Lindberg**, hemkår: Södertälje, 
 
-Medarbetare på Frälsningsarméns kommunikationsenhet
+**Thomas Gillkvist,** hemkår: Södertälje,
 
-**1:a kornett:**
+##### **2:a kornett:**
 
-Patrik Birgestam, hemkår Södertälje, till vardags...
+**Oskar Öberg**, hemkår: Vasakåren, 
 
-Kristian Lindberg, hemkår Södertälje, till vardags…
+**Johan Johnsson,** hemkår: Kår 393, vårdbiträde Södertälje kommun
 
-Thomas Gillkvist, hemkår Södertälje, till vardags…
+##### **Flygelhorn:**
 
-**2:a kornett:**
+**Charlotte Råström**, hemkår: Templet Stockholm, StfC Livgardets Dragonmusikkår
 
-Oskar Öberg, hemkår Vasakåren, till vardags…
+##### **Solohorn:**
 
-Johan Johnsson, hemkår Kår 393
+**Kenneth Göransson,** hemkår: Söderkåren, CFO på Ahlsell
 
-Vårdbiträde Södertälje kommun
+##### **1:a horn:**
 
-**Flygelhorn:**
+**Christer Larsson,** hemkår: Söderkåren, mellanstadielärare på Sunnerbyskolan
 
-Charlotte Råström, hemkår: Templet Stockholm, 
+##### **2:a horn**
 
-StfC Livgardets Dragonmusikkår
+##### **Eufonium:**
 
-**Solohorn:**
+**Richard Kendrick,** hemkår: Söderkåren, CEO på Nectima 
 
-Kenneth Göransson, hemkår: Söderkåren
+**Markus Rylander,** hemkår Söderkåren
 
-CFO på Ahlsell
+##### **Bariton:**
 
-**1:a horn:**
+**Lennart Eld,** hemkår Vasakåren
 
-Christer Larsson, hemkår: Söderkåren
+##### **Trombon:**
 
-mellanstadielärare på Sunnerbyskolan
+**Lars Råsberg,** hemkår Hisingskåren, Göteborg, biståndsarbetare Vetlanda
 
-**2:a horn**
+**Mikael Claesson**, hemkår Söderkåren, CEO Pensure AB
 
-**Eufonium:**
+**Per-Olof Ahrnéll**, hemkår: Södertälje, pensionerad egenföretagare
 
-Richard Kendrick, hemkår: Söderkåren
+**Johan Ådvall,** hemkår Vasakåren, biträdande platschef Midsommarkransens Akutboende
 
-CBDO på Nectima 
+##### **Eb-tuba:**
 
-Markus Rylander, hemkår Söderkåren
+**Fredrik Edqvist,** hemkår: Örebro, försäkringstjänsteman
 
-**Bariton:**
+**Christer Hagman**, hemkår Söderkåren
 
-Lennart Eld, hemkår Vasakåren
+**Lars Ihlar,** hemkår Söderkåren
 
-**Trombon:**
+##### **Bb-tuba:**
 
-Lars Råsberg, hemkår Hisingskåren, Göteborg
+**Maurice Forslund**, hemkår Söderkåren,
 
-Biståndsarbetare Vetlanda
+**Daniel Karlsson**, hemkår: Vasakåren, entreprenör och grundare av peerCast
 
-Mikael Claesson, hemkår Söderkåren
+##### **Slagverk:**
 
-CEO Pensure AB
+**Thomas Jutestål**, hemkår Söderkåren
 
-Per-Olof Ahrnéll, hemkår: Södertälje
-
-Pensionerad egenföretagare
-
-Johan Ådvall, hemkår Vasakåren, 
-
-biträdande platschef Midsommarkransens Akutboende
-
- **Eb-tuba:**
-
-Fredrik Edqvist, hemkår: Örebro, 
-
-försäkringstjänsteman
-
-Christer Hagman, hemkår Söderkåren
-
-Lars Ihlar, hemkår Söderkåren
-
-**Bb-tuba:**
-
-Maurice Forslund, hemkår Söderkåren,
-
-Daniel Karlsson, hemkår: Vasakåren, 
-
-entreprenör och grundare av peerCast
-
-**Slagverk:**
-
-Thomas Jutestål, hemkår Söderkåren
-
-Tobias Jutestål, hemkår Söderkåren
+**Tobias Jutestål**, hemkår Söderkåren
