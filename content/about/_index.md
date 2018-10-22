@@ -55,13 +55,13 @@ Charlotte Råström, hemkår: Templet Stockholm,
 
 StfC Livgardets Dragonmusikkår
 
- **Solohorn:**
+**Solohorn:**
 
 Kenneth Göransson, hemkår: Söderkåren
 
 CFO på Ahlsell
 
- **1:a horn:**
+**1:a horn:**
 
 Christer Larsson, hemkår: Söderkåren
 
@@ -75,7 +75,7 @@ Richard Kendrick, hemkår: Söderkåren
 
 CBDO på Nectima 
 
-Markus Rylander, hemkår Söderkåren 
+Markus Rylander, hemkår Söderkåren
 
 **Bariton:**
 
@@ -109,7 +109,7 @@ Christer Hagman, hemkår Söderkåren
 
 Lars Ihlar, hemkår Söderkåren
 
- **Bb-tuba:**
+**Bb-tuba:**
 
 Maurice Forslund, hemkår Söderkåren,
 
