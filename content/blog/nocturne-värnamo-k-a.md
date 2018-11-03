@@ -9,26 +9,26 @@ Välkommen att avrunda dagen med stämningsfull aftonmusik i Värnamo K:a.
 
 Program:
 
-I´ll walk with God​N. Brodszky/G. Richards
+I´ll walk with God​ N. Brodszky/G. Richards
 
-Share my Yoke​J.Webb/ I. Bosanko  
+Share my Yoke​ J. Webb/ I. Bosanko
 
 Solist: Kent Jonsson
 
-Prelude on Lavenham​G. Nobes
+Prelude on Lavenham​ G. Nobes
 
-Guardian of my soul​D. Shaw
+Guardian of my soul ​D. Shaw
 
-My Christ​​W.Himes.  
+My Christ​​ W. Himes.
 
 Solist: Richard Kendrick​
 
-In quiet pastures​R.S Allen
+In quiet pastures​ R.S Allen
 
-All to Jesus​​R.Trigg
+All to Jesus​​ R. Trigg
 
-In perfect peace​K. Downie
+In perfect peace​ K. Downie
 
-The light of the world​D. Goffin
+The light of the world​ D. Goffin
 
-Abide with me​Monk/ Jenkins/ Graham/ J. Jonsson
+Abide with me​ Monk/ Jenkins/ Graham/ J. Jonsson
