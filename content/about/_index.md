@@ -14,13 +14,13 @@ Kent Jonsson, hemkår: Skelleftehamn, frilanstrumpetare, tidigare solotrumpetare
 
 **Soprankornett:**
 
-Fredrik Lundberg, hemkår Södertälje, egenföretagare projektledning inom byggbranchen
+Fredrik Lundberg, hemkår: Södertälje, egenföretagare projektledning inom byggbranchen
 
 **Solokornett:**
 
-Göran Lundberg, hemkår Södertälje, säkerhetsansvarig Telgekoncernen
+Göran Lundberg, hemkår: Södertälje, säkerhetsansvarig Telgekoncernen
 
-Maria Wiberg, hemkår Vasakåren, speciallärare
+Maria Wiberg, hemkår: Vasakåren, speciallärare
 
 Mikael Eriksson, hemkår: Uppsala, mjukvaruarkitekt/programmerare av journalsystem för hälso- och sjukvård
 
@@ -56,36 +56,36 @@ Christer Larsson, hemkår: Söderkåren, mellanstadielärare på Sunnerbyskolan
 
 Richard Kendrick, hemkår: Söderkåren, CEO på Nectima
 
-Markus Rylander, hemkår Söderkåren, Private Banker
+Markus Rylander, hemkår: Söderkåren, Private Banker
 
 **Bariton:**
 
-Lennart Eld, hemkår Vasakåren, verksamhetschef Frälsningsarméns akutboende
+Lennart Eld, hemkår: Vasakåren, verksamhetschef Frälsningsarméns akutboende
 
 **Trombon:**
 
-Lars Råsberg, hemkår Hisingskåren, Göteborg, biståndsarbetare Vetlanda
+Lars Råsberg, hemkår: Hisingskåren, Göteborg, biståndsarbetare Vetlanda
 
-Mikael Claesson, hemkår Söderkåren, CEO Pensure AB
+Mikael Claesson, hemkår: Söderkåren, CEO Pensure AB
 
 Per-Olof Ahrnéll, hemkår: Södertälje, pensionerad egenföretagare
 
-Johan Ådvall, hemkår Vasakåren, biträdande platschef Midsommarkransens Akutboende
+Johan Ådvall, hemkår: Vasakåren, biträdande platschef Midsommarkransens Akutboende
 
 **Eb-tuba:**
 
 Fredrik Edqvist, hemkår: Örebro, försäkringstjänsteman
 
-Christer Hagman, hemkår Söderkåren, CEO Conroute AB
+Christer Hagman, hemkår: Söderkåren, CEO Conroute AB
 
-Lars Ihlar, hemkår Söderkåren, pensionerad personalchef
+Lars Ihlar, hemkår: Söderkåren, pensionerad personalchef
 
 **Bb-tuba:**
 
-Maurice Forslund, hemkår Söderkåren, jurist på statlig myndighet
+Maurice Forslund, hemkår: Söderkåren, jurist på statlig myndighet
 
 Daniel Karlsson, hemkår: Vasakåren, entreprenör och grundare av peerCast
 
 **Slagverk:**
 
-Thomas Jutestål, hemkår Söderkåren, egen företagare brass- och slagverksservice
+Thomas Jutestål, hemkår: Söderkåren, egen företagare brass- och slagverksservice
