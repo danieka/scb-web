@@ -27,7 +27,7 @@ Lör 10/11 kl.15:00                              �
 
 Sön 11/11 kl 17.00                                   Musikgudstjänst, Frälsningsarmén i Tranås
 
-Program festivalklassen:
+SCB´s program i festivalklassen:
 
 • The Southern Cross  B. Bowen​
 
