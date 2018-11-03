@@ -1,6 +1,5 @@
 +++
 date = "2018-11-09T22:00:55+00:00"
-draft = true
 image = "/uploads/2018/11/03/BAAC9AC1-ABF8-4333-B6CF-01BCAC019279.jpeg"
 title = "Nocturne Värnamo K:a"
 
