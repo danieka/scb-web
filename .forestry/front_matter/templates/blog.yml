@@ -19,6 +19,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/nocturne-värnamo-k-a.md
 - content/blog/öppningskonsert-svenska-brassbandfestivalen.md
 - content/blog/hello.md
 - content/blog/hello.1.md
