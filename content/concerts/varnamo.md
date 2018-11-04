@@ -3,6 +3,7 @@ concertDate = ""
 concertStart = "2018-11-08T23:00:00.000+00:00"
 conductor = "Kent Jonsson"
 date = ""
+draft = true
 featured = true
 image = "/uploads/2018/11/04/20181104_191113.jpg"
 location = ""
