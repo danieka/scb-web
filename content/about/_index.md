@@ -1,7 +1,6 @@
 ---
 date: 2018-08-20 00:00:00 +0000
 title: Swedish Central Band
-draft: true
 
 ---
 Swedish Central Band bildades i januari 2018 med målet att beröra och inspirera de som lyssnar på oss. Vi är en sammansättning av musikanter som har varit eller som fortfarande är aktiva musikanter i Frälsningsarmén. Under våren 2018 har bandet genomfört konserter i Örebro, Södertälje, Linköping & Stockholm.
