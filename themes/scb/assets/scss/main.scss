@@ -232,7 +232,7 @@ header {
 .articles {
     > div {
         display: flex;
-        justify-content: space-between;
+        justify-content: flex-start;
 
         img {
             height: 270px;
@@ -258,12 +258,14 @@ header {
             img {
                 width: 90vw;
                 height: 90vw;
+                max-height: 500px;
             }
         }
     }
 
     > div:nth-child(2n + 1) {
         flex-direction: row-reverse;
+        justify-content: space-between;
     }
 }
 

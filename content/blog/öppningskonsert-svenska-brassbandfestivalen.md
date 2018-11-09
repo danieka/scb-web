@@ -9,6 +9,7 @@ SCB´s program på Svenska Brassbandfestivalens öppningsceremoni:
 • Invincible army, E. Leidzén
 
 • All in Jesus R. Trigg
+<!--more-->
 
 • Amazed P. Sharman
 

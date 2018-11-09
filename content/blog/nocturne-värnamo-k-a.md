@@ -11,6 +11,7 @@ Nocturne:
 * Share my Yoke​ J. Webb/ I. Bosanko  Solist: Kent Jonsson
 * Prelude on Lavenham ​G. Nobes
 * Guardian of my soul​ D. Shaw
+<!--more-->
 * My Christ​​ W.Himes.  Solist: Richard Kendrick​
 * In quiet pastures ​R.S Allen
 * All to Jesus​​ R. Trigg

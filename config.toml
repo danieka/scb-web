@@ -2,6 +2,7 @@ baseURL = "https://swedishcentralband.com"
 languageCode = "en-us"
 theme = "scb"
 title = "Swedish Central Band"
+buildFuture = true
 [[menu.main]]
 identifier = "about"
 name = "Om Oss"
