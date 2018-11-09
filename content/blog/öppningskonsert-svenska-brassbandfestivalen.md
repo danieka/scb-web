@@ -6,7 +6,7 @@ title = "Öppningsceremoni Svenska Brassbandfestivalen"
 +++
 SCB´s program på Svenska Brassbandfestivalens öppningsceremoni:
 
-• Invincible army, E. Leidzé
+• Invincible army, E. Leidzén
 
 • All in Jesus R. Trigg
 
