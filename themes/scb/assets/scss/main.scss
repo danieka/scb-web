@@ -213,6 +213,7 @@ header {
 
         img {
             max-width: 100%;
+            min-width: 100%;
             height: 300px;
             object-fit: cover;
         }
@@ -225,6 +226,12 @@ header {
             box-sizing: border-box;
             padding: 0 3em;
             min-height: 152px;
+        }
+    }
+
+    @media(max-width: 666px) {
+        > div {
+            width: 90vw;
         }
     }
 }
