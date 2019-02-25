@@ -4,7 +4,7 @@ conductor = "Stephen Cobb"
 date = ""
 featured = true
 image = "/uploads/Skärmavbild 2018-10-18 kl. 09.42.48.png"
-location = ""
+location = "Templet, Stockholm"
 mapsLink = ""
 title = "Besök av Dr. Stephen och Philip Cobb, 8-10 mars 2019                  "
 
