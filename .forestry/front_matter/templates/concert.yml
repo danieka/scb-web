@@ -23,7 +23,7 @@ fields:
   config:
     required: true
     date_format: YYYY-MM-DD
-    time_format: hh:mm ZZ
+    time_format: h:mm A ZZ
 - name: location
   label: Location
   type: text
