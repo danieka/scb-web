@@ -17,6 +17,4 @@ Vi kommer att få lyssna till båda som solister, Dr. Stephen Cobb kommer att re
 
 Missa inte detta tillfälle att se och lyssna till två fantastiska Frälsningsarmémusiker.
 
-Mer detaljer om helgen kommer.
-
 Välkommen!
