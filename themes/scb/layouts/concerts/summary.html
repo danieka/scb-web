@@ -1,3 +1,4 @@
+<a href="{{.URL}}">
 {{ with .Params.image }}
     {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
     {{ if $imageResource }}
@@ -10,7 +11,5 @@
 <div>
     <h3>{{.Title}}</h3>
     <p>{{.Params.location}}</p>
-    <p>
-        <a href="{{.URL}}">Mer information</a>
-    </p>
 </div>
+</a>

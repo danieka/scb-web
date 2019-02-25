@@ -1,3 +1,4 @@
+<a href="{{.URL}}">
 {{ with .Params.image }}
     {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
     {{ if $imageResource }}
@@ -9,10 +10,8 @@
 {{ end }}
 
 <div>
-    <h3><a href="{{.URL}}">{{.Title}}</a></h3>
+    <h3>{{.Title}}</h3>
 
     {{ .Summary | markdownify | safeHTML }}
-    <p>
-        <a href="{{.URL}}">Läs mer</a>
-    </p>
 </div>
+</a>
