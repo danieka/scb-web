@@ -12,9 +12,13 @@
     </div>
     <div class="concerts">
         {{ range sort (where (where .Pages "Section" "concerts") "Params.featured" true) "Params.concertDate"}}
-        <div>
-            {{ .Render "summary"}}
-        </div>
+            {{ if .Params.concertDate }}
+                {{ if (time .Params.concertdate).After now }}
+                <div>
+                    {{ .Render "summary"}}
+                </div>
+                {{ end }}
+            {{ end }}
         {{ end }}
     </div>
     <div class="ruler-title">
