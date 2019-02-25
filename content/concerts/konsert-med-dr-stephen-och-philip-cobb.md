@@ -2,7 +2,6 @@
 concertDate = "2019-03-10T10:00:00+00:00"
 conductor = "Stephen Cobb"
 date = ""
-draft = true
 featured = true
 image = "/uploads/Skärmavbild 2018-10-18 kl. 09.42.48.png"
 location = "Frälsningsarmén Templet, Östermalmsgatan 69, Stockholm"
