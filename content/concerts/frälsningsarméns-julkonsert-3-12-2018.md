@@ -1,5 +1,5 @@
 +++
-concertDate = ""
+concertDate = "2019-02-25T18:00:15+00:00"
 conductor = "Kent Jonsson"
 date = ""
 featured = true
