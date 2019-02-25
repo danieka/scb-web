@@ -6,18 +6,22 @@ fields:
 - name: date
   label: Date
   type: datetime
-  hidden: false
+  hidden: true
   default: ''
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: concertDate
   label: Concert Date
   type: datetime
   hidden: false
   default: ''
+  config:
+    required: true
 - name: location
   label: Location
   type: text
