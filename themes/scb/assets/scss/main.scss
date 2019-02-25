@@ -209,33 +209,49 @@ header {
     justify-content: space-between;
     color: white;
 
-    > div > a {
-        width: 300px;
-        height: 300px;
-        position: relative;
-        margin-bottom: 2em;
-        display: block;
+    padding: 10px;
+    margin: 0 -20px;
 
-        img {
-            max-width: 100%;
-            min-width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
+    > div {
+        flex: 1 1 300px;
+        margin: 10px;
 
-        > div {
-            position: absolute;
-            bottom: 0;
-            background: $primary-transparent;
-            width: 100%;
-            box-sizing: border-box;
-            padding: 0 3em;
-            min-height: 152px;
+        > a {
+            max-width: 500px;
+
+            position: relative;
+            margin-bottom: 2em;
+            display: block;
+            text-decoration: none;
+
+            img {
+                max-height: 300px;
+                max-width: 100%;
+                min-width: 100%;
+                height: 100%;
+                display: block;
+                object-fit: cover;
+            }
+
+            > div {
+                background: $primary-transparent;
+                width: 100%;
+                box-sizing: border-box;
+                padding: 0.5em 3em;
+                min-height: 11em;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-around;
+
+                * {
+                    margin: 0;
+                }
+            }
         }
     }
 
     @media(max-width: 666px) {
-        > div {
+        > div > a {
             width: 90vw;
         }
     }
@@ -354,6 +370,7 @@ div#mc_embed_signup {
         > img {
             width: 542px;
             max-width: 90vw;
+            object-fit: cover;
         }
     }
 }
