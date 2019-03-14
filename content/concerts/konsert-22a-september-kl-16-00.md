@@ -7,6 +7,6 @@ featured = false
 image = ""
 location = ""
 mapsLink = ""
-title = "Konsert 22a september kl 16.00"
+title = "Konsert 22:a september kl 16.00"
 
 +++
