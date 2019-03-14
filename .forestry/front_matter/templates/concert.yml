@@ -52,6 +52,7 @@ fields:
   label: Featured
   description: Om ni markerar denna så dyker den upp på förstasidan
 pages:
+- content/concerts/konsert-22a-september-kl-16-00.md
 - content/concerts/försommarkonsert-på-stortorget.md
 - content/concerts/besök-av-stephen-och-philip-cobb-8-10-3-2019.md
 - content/concerts/konsert-med-dr-stephen-och-philip-cobb.md
