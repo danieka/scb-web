@@ -1,8 +1,8 @@
 $sans: "Raleway", sans-serif;
 $serif: "Cormorant Garamond", serif;
 
-$primary: #E27508;
-$primary-transparent: #E27508;
+$primary: #14315C;
+$primary-transparent: #14315C;
 $black: #1e0000;
 $white: #fff5ec;
 $gray: #A79587;
@@ -175,7 +175,7 @@ header {
 
     padding: 0 5vw;
 
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 8em, rgba(0, 0, 0, 0) 95%, rgba(0, 0, 0, 1) 100%), url("/uploads/2018/09/05/IMG_1448.jpg");
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 8em, rgba(0, 0, 0, 0) 95%, rgba(0, 0, 0, 1) 100%), url("/bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
